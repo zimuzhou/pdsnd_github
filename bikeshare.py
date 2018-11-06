@@ -172,15 +172,15 @@ def user_stats(df,city):
 
     answer_list = ['yes','no']
     i = 0
-    j = 5
+    j = 10
     while True:
         try:
-            answer = input(('would you like to see 5 rows of data? yes/no ').lower())
+            answer = input(('would you like to see 10 rows of data? yes/no ').lower())
             answer_index = answer_list.index(answer)
             if answer == 'yes':
                 print(df[i:j])
-                i += 5
-                j += 5
+                i += 10
+                j += 10
                 continue
             else:
                 break
