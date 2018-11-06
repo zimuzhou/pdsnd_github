@@ -16,3 +16,6 @@ https://stackoverflow.com/
 
 ## Python version
 3.6.4
+
+## Total data files size
+106.3 MB
