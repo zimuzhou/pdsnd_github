@@ -13,3 +13,6 @@ chicago.csv, new_york_city.csv, washington.csv
 ### Credits
 https://www.udacity.com/
 https://stackoverflow.com/
+
+## Python version
+3.6.4
